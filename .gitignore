@@ -1,0 +1,5 @@
+# Packages are published as release assets, never committed
+*.sppkg
+*.zip
+.DS_Store
+Thumbs.db
